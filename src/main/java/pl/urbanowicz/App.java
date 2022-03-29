@@ -18,7 +18,7 @@ public class App {
         order.registerObserver(mobileApp);
         order.registerObserver(email);
 
-        order.§();
+        order.notifyObservers();
 
         System.out.println("------------------------------");
 
