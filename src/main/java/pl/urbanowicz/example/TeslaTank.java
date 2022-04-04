@@ -1,4 +1,4 @@
-package pl.urbanowicz;
+package pl.urbanowicz.example;
 
 public class TeslaTank {
     private int x;

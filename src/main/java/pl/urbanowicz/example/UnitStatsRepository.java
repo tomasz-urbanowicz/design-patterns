@@ -1,4 +1,4 @@
-package pl.urbanowicz;
+package pl.urbanowicz.example;
 
 public class UnitStatsRepository {
     private static UnitStats destroyerStats = new UnitStats("Destroyer", 500, 250, 70, 10, 800);

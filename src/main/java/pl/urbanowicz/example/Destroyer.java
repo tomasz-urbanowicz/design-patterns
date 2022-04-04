@@ -1,4 +1,4 @@
-package pl.urbanowicz;
+package pl.urbanowicz.example;
 
 public class Destroyer {
     private int x;
